@@ -1,0 +1,16 @@
+C:\Users\DELL\RiderProjects\Wizard\bin\Debug\net35\Assembly-CSharp.dll
+C:\Users\DELL\RiderProjects\Wizard\bin\Debug\net35\Rewired_Core.dll
+C:\Users\DELL\RiderProjects\Wizard\bin\Debug\net35\UnityEngine.UI.dll
+C:\Users\DELL\RiderProjects\Wizard\bin\Debug\net35\Assembly-CSharp-firstpass.dll
+C:\Users\DELL\RiderProjects\Wizard\bin\Debug\net35\Rewired_Windows.dll
+C:\Users\DELL\RiderProjects\Wizard\obj\Debug\net35\Wizard.csproj.AssemblyReference.cache
+C:\Users\DELL\RiderProjects\Wizard\obj\Debug\net35\PluginInfo.cs
+C:\Users\DELL\RiderProjects\Wizard\obj\Debug\net35\Wizard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\RiderProjects\Wizard\obj\Debug\net35\Wizard.AssemblyInfoInputs.cache
+C:\Users\DELL\RiderProjects\Wizard\obj\Debug\net35\Wizard.AssemblyInfo.cs
+C:\Users\DELL\RiderProjects\Wizard\obj\Debug\net35\Wizard.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\Wizard\obj\Debug\net35\Wizard.csproj.CopyComplete
+C:\Users\DELL\RiderProjects\Wizard\bin\Debug\net35\DPSMod.dll
+C:\Users\DELL\RiderProjects\Wizard\bin\Debug\net35\DPSMod.pdb
+C:\Users\DELL\RiderProjects\Wizard\obj\Debug\net35\DPSMod.dll
+C:\Users\DELL\RiderProjects\Wizard\obj\Debug\net35\DPSMod.pdb
